@@ -80,9 +80,9 @@ Inventory_Management_System/
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/exc1.png)
-![Dashboard Preview](assets/exc2.png)
-![Dashboard Preview](assets/exc3.png)
+![Dashboard Preview](asset/exc1.png)
+![Dashboard Preview](asset/exc2.png)
+![Dashboard Preview](asset/exc3.png)
 
 
 ## How the System Works
