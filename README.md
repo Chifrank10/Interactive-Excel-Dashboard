@@ -80,12 +80,10 @@ Inventory_Management_System/
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard Preview](assets/exc1.png)
+![Dashboard Preview](assets/exc2.png)
+![Dashboard Preview](assets/exc3.png)
 
-
-## Process Flow
-
-(Add your workflow/process image here)
 
 ## How the System Works
 Inventory data is entered into the source sheet.
@@ -94,6 +92,7 @@ Pivot Tables summarize inventory metrics.
 Dynamic charts visualize inventory performance.
 Dashboards provide operational insights for decision-making.
 Conditional formatting highlights low-stock items automatically.
+Refresh on pivot table column to update dashboard on newly added data
 
 ## Skills Demonstrated
 
